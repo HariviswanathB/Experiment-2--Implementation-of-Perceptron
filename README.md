@@ -110,3 +110,15 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
+
+# OUTPUT:
+# dataset:
+![Screenshot 2023-09-23 140934](https://github.com/HariviswanathB/Experiment-2--Implementation-of-Perceptron/assets/119103855/1d8fb76c-5f46-4f90-a13d-cbe0bb379dde)
+
+# Scatter Plot:
+![Screenshot 2023-09-23 141057](https://github.com/HariviswanathB/Experiment-2--Implementation-of-Perceptron/assets/119103855/dbf67ebc-11f9-438a-a008-d789f366cf76)
+
+# Error Plot:
+![Screenshot 2023-09-23 141211](https://github.com/HariviswanathB/Experiment-2--Implementation-of-Perceptron/assets/119103855/f5899287-9495-48d8-8340-e404cbbc1b3e)
+
+
